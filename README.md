@@ -21,7 +21,7 @@ NewsEye is a React-based web application that fetches and displays the latest ne
 
 **1. Clone the repository:** <br>
 git clone https://github.com/your-username/NewsEye.git<br>
-cd NewsMag
+cd NewsEye
 
 **2. Install the dependencies:**<br>
 npm install
